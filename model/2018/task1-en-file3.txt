@@ -1,0 +1,645 @@
+1	TRUMP	Welcome to all of you deplorables.	0
+2	TRUMP	Thank you, ma’am.	0
+3	TRUMP	Boy, oh boy.	0
+4	TRUMP	We’re going to have a good time tonight.	0
+5	TRUMP	We’re going to have a good time.	0
+6	TRUMP	Wow.	0
+7	TRUMP	I love that.	0
+8	TRUMP	I love that.	0
+9	TRUMP	Look at this.	0
+10	TRUMP	Look what that says.	0
+11	TRUMP	Hold up that sign for the cameras.	0
+12	TRUMP	Wow.	0
+13	TRUMP	That’s so beautiful.	0
+14	TRUMP	Thank you.	0
+15	TRUMP	Great.	0
+16	TRUMP	Thank you.	0
+17	TRUMP	That is so nice.	0
+18	TRUMP	And we are doing well in every way.	0
+19	TRUMP	The polls have been incredible.	0
+20	TRUMP	But we’re doing great.	0
+21	TRUMP	It’s great to be in my second home — Florida.	0
+22	TRUMP	And in the city of Miami, where I have so many wonderful friends and projects and employees.	0
+23	TRUMP	We have an amazing group.	0
+24	TRUMP	And all of you know Trump National Doral and we’ll go there.	0
+25	TRUMP	Let’s go and have some fun.	0
+26	TRUMP	We have tremendous developments in Miami on the water and Doral in particular has been a tremendous, tremendous thing.	0
+27	TRUMP	So I really appreciate it.	0
+28	TRUMP	I love this city.	0
+29	TRUMP	I love the whole state.	0
+30	TRUMP	So, and I have a lot of employees.	0
+31	TRUMP	And I’m paying them a lot of money.	0
+32	TRUMP	And, by the way, a lot of African-American employees, a lot of Hispanic employees.	0
+33	TRUMP	A lot.	0
+34	TRUMP	And they’re very happy.	0
+35	TRUMP	They like Donald Trump.	0
+36	TRUMP	So new polls have just come in.	0
+37	TRUMP	And we’re leading in many of the battleground states all over the country.	0
+38	TRUMP	Including being 4 points up in a certain state known as Florida.	0
+39	TRUMP	And the Los Angeles Times has us 6 points up nationwide.	1
+40	TRUMP	Good poll.	0
+41	TRUMP	If it weren’t, I wouldn’t be telling you about it, I promise.	0
+42	TRUMP	But come Nov. 8, we’re going to win Florida, and we’re going to win the White House, and we’re going to make America great again.	0
+43	TRUMP	It’s going to be a victory for the people.	0
+44	TRUMP	It’s going to be a victory for the workers, the families, the veterans.	0
+45	TRUMP	The veterans — we love our veterans.	0
+46	TRUMP	And every citizen of this country.	0
+47	TRUMP	It’s going to be a victory for those who haven’t had reason to hope for a very long time.	0
+48	TRUMP	I’m campaigning in every community, every part of this country for every last vote.	0
+49	TRUMP	I’m running to be a president for all Americans.	0
+50	TRUMP	I just had the most amazing afternoon in Little Haiti.	0
+51	TRUMP	Good place.	0
+52	TRUMP	Unbelievable people.	0
+53	TRUMP	And I’m going to be campaigning hard for their votes.	0
+54	TRUMP	And they are incredible people.	0
+55	TRUMP	Our support comes from all regions, all backgrounds and all walks of life — all.	0
+56	TRUMP	All of them.	0
+57	TRUMP	And, by the way, at Little Haiti they presented me with something that I figured I’d put on.	0
+58	TRUMP	Is that OK to put it on?	0
+59	TRUMP	They gave me that and I love it.	0
+60	TRUMP	I think it’s great.	0
+61	TRUMP	Your cops and soldiers — thank you.	0
+62	TRUMP	I love you too.	0
+63	TRUMP	Carpenters and welders, accountants and lawyers, young and old, rich and poor, Black, white and Hispanic.	0
+64	TRUMP	But above all, we are together and we are Americans.	0
+65	TRUMP	We got to pull our country together.	0
+66	TRUMP	Just today I was honored to get the endorsement of recipients of the Medal of Honor, brave people.	0
+67	TRUMP	And many, many of our most amazing military leaders, generals, admirals, amazing people, real fighters.	0
+68	TRUMP	They really know what they’re doing.	0
+69	TRUMP	We now have the endorsements of more than 160 top generals and admirals.	0
+70	TRUMP	I didn’t know we had that many.	0
+71	TRUMP	Well, we love them.	0
+72	TRUMP	We also have the support of 16,500 border patrol officers.	0
+73	TRUMP	The first time in the history of the border patrol that they’ve endorsed any presidential candidate.	0
+74	TRUMP	As well as law enforcement officers, police, all across the country.	0
+75	TRUMP	In fact, I’m very excited to announce tonight that we just received a few minutes ago the endorsement of the largest police union in the country, the Fraternal Order of Police.	0
+76	TRUMP	Number one by far.	0
+77	TRUMP	Pretty good.	0
+78	TRUMP	Pretty good.	0
+79	TRUMP	And we have the support of millions of patriotic moms and dads who go to work every day and make our country run.	0
+80	TRUMP	While my opponent slanders you as deplorable — and irredeemable!	0
+81	TRUMP	Boy that second word is tough.	0
+82	TRUMP	You don’t hear that as much.	0
+83	TRUMP	But that means you’re never going to come back, folks.	0
+84	TRUMP	And I know you’re going to come back.	0
+85	TRUMP	We’re going to come back so strong.	0
+86	TRUMP	We’re going to be so strong.	0
+87	TRUMP	Stronger than ever before.	0
+88	TRUMP	Irredeemable.	0
+89	TRUMP	They don’t talk about that one, but that was, to me, pretty bad.	0
+90	TRUMP	I call you hardworking American patriots who love your family and really, really, really love your country.	0
+91	TRUMP	Love your country.	0
+92	TRUMP	Clinton’s entire campaign rests on using a single tactic, and it’s not working very well.	0
+93	TRUMP	She spent hundreds of millions of dollars on phony campaign ads.	0
+94	TRUMP	And we’re actually I think probably leading — based on everything we’re seeing — and we’ve spent practically nothing.	0
+95	TRUMP	I’m proud of that.	0
+96	TRUMP	And you know what?	0
+97	TRUMP	We’re doing very well.	0
+98	TRUMP	You know in the old days if you spent less and you had far fewer people and you were leading you got credit.	0
+99	TRUMP	Today they say well, she’s spending much more money.	0
+100	TRUMP	Yes, but she’s doing poorly, very poorly.	0
+101	TRUMP	But what they do is they smear opponents — and you look at her history — and they question policies.	0
+102	TRUMP	And they talk all the time about racist, racist.	0
+103	TRUMP	It’s the only word they know.	0
+104	TRUMP	They used it on Romney.	0
+105	TRUMP	They used it on everybody.	0
+106	TRUMP	They use it.	0
+107	TRUMP	When they’re in trouble, they always pull out the racist word.	0
+108	TRUMP	And they are in very big trouble, I have to tell you.	0
+109	TRUMP	And for the most part we haven’t even started spending our money yet.	1
+110	TRUMP	And we have raised a lot of money.	0
+111	TRUMP	And I’m putting in my money.	0
+112	TRUMP	And I put in a hell of a lot of money.	0
+113	TRUMP	In fact, if things don’t work out, even though a lot of people are saying this was one of the great political phenomenas they’ve ever seen.	0
+114	TRUMP	They’ve never seen — they call it a phenomena.	0
+115	TRUMP	I will tell you.	0
+116	TRUMP	If it doesn’t work out, it will be a tremendous waste of time, energy and money.	0
+117	TRUMP	And she’s angry for even suggesting it.	0
+118	TRUMP	But we’re going to — hey look, Nov. 8 you go and vote.	0
+119	TRUMP	We’re winning.	0
+120	TRUMP	I’ll tell you what.	0
+121	TRUMP	If you vote, we’re winning.	0
+122	TRUMP	There’s no way they can beat us.	0
+123	TRUMP	There’s no way she can beat us because her people have no enthusiasm, whatsoever.	0
+124	TRUMP	They’re not going to turn out.	0
+125	TRUMP	They don’t have the enthusiasm.	0
+126	TRUMP	Who could possibly have enthusiasm?	0
+127	TRUMP	What are you getting?	0
+128	TRUMP	You turn out, we’re winning big league.	0
+129	TRUMP	And I think — and they’re all saying the Trump people are going to turn out.	0
+130	TRUMP	We have a movement like they have never, ever seen in this country.	0
+131	TRUMP	And they say in terms of enthusiasm they have never had polling higher.	0
+132	TRUMP	So I think, I have very little doubt, turnout we’re going to have a tremendous Nov. 8.	0
+133	TRUMP	Probably we’ll say Nov. 8 plus the next four years and then four years after that, OK?	0
+134	TRUMP	But the racist word, it’s the oldest play in the Democratic playbook, and Americans have had enough of it, OK.	0
+135	TRUMP	We get it.	0
+136	TRUMP	We get it.	0
+137	TRUMP	I’ll tell you what, I just — I told you I just left Little Haiti.	0
+138	TRUMP	The love is unbelievable.	0
+139	TRUMP	It’s unbelievable.	0
+140	TRUMP	There’s no racist.	0
+141	TRUMP	There’s no nothing.	0
+142	TRUMP	It’s love.	0
+143	TRUMP	They want solutions.	0
+144	TRUMP	They want better lives, not more petty attacks from failed and totally discredited politicians like crooked Hillary Clinton.	0
+145	TRUMP	They want their immigration laws enforced and their border secured.	0
+146	TRUMP	Let’s win on Nov. 8, OK?	0
+147	TRUMP	That’ll be —	0
+148	TRUMP	They’re patriotic Americans of all backgrounds who want their jobs and their families protected.	0
+149	TRUMP	They want protection.	0
+150	TRUMP	People who warn about radical Islamic terrorism are not Islamophobes.	0
+151	TRUMP	Everyone’s an Islamophobe.	0
+152	TRUMP	You mention something you’re an Islamophobe.	0
+153	TRUMP	You know they come up with words.	0
+154	TRUMP	Hey, I went to Ivy League school.	0
+155	TRUMP	I did very well — great.	0
+156	TRUMP	They have so many new words.	0
+157	TRUMP	Islamophobe.	0
+158	TRUMP	We have a president — and frankly Hillary — who don’t use the words radical Islamic terrorism.	1
+159	TRUMP	And if you don’t know what you’re fighting, you’re not going to fight it very well.	0
+160	TRUMP	And we’ve proven that.	0
+161	TRUMP	We have decent American citizens who want to uphold our tolerant values and keep our country safe.	0
+162	TRUMP	We want to keep our country safe.	0
+163	TRUMP	People who support the police, who want crime reduced and ended, and who are not prejudiced.	0
+164	TRUMP	They’re concerned and loving citizens whose hearts break every time an innocent child is killed, violently, on the streets, which is happening all over our country.	1
+165	TRUMP	Yet while Hillary Clinton lives behind gates and walls and guards, and raises millions from hedge funds — you know look what she’s doing with these hedge funds, raising millions and millions.	0
+166	TRUMP	I know so many of these people.	0
+167	TRUMP	Give me a break.	0
+168	TRUMP	The hedge fund and the Wall Street donors she slanders and smears with her statements last week.	0
+169	TRUMP	Working people who just want a fraction of the security enjoyed by our politicians and certainly enjoyed by her.	0
+170	TRUMP	Now you know she’s very much against the Second Amendment.	1
+171	TRUMP	She wants to destroy your Second Amendment.	1
+172	TRUMP	Guns, guns, guns, right.	0
+173	TRUMP	I think what we should do is she goes around with armed bodyguards like you have never seen before.	0
+174	TRUMP	I think that her bodyguards should drop all weapons.	0
+175	TRUMP	They should disarm, right?	0
+176	TRUMP	Right?	0
+177	TRUMP	I think they should disarm immediately.	0
+178	TRUMP	What do you think?	0
+179	TRUMP	Yes?	0
+180	TRUMP	Yeah.	0
+181	TRUMP	Take their guns away.	0
+182	TRUMP	She doesn’t want guns.	1
+183	TRUMP	Take their — let’s see what happens to her.	0
+184	TRUMP	Take their guns away.	0
+185	TRUMP	OK?	0
+186	TRUMP	It’d be very dangerous.	0
+187	TRUMP	Her comments displayed the same sense of arrogance and entitlement that led her to violate federal law as secretary of State, hide and delete her e-mails, destroy her iPhones — with a hammer!	0
+188	TRUMP	With a hammer!	0
+189	TRUMP	Thirteen of them.	0
+190	TRUMP	Put classified information in the reach of our enemies, lie to Congress, and sell government favors and access through her foundation.	0
+191	TRUMP	It’s the same attitude of arrogance and entitlement that explains why she has never taken accountability for the disaster she created in Libya, Syria, Iraq, Iran and all over the world.	0
+192	TRUMP	Everything she touched, it just didn’t work out.	0
+193	TRUMP	Certainly it didn’t work out for our country.	0
+194	TRUMP	It’s the same reason why she won’t take responsibility for her central role in unleashing ISIS all over the world.	1
+195	TRUMP	Her policies have created disaster overseas and poverty at home.	1
+196	TRUMP	We see it.	0
+197	TRUMP	Look, we see it.	0
+198	TRUMP	I drove here.	0
+199	TRUMP	We see it.	0
+200	TRUMP	We see it.	0
+201	TRUMP	I’m running to reverse these failures.	0
+202	TRUMP	And they are incredible failures.	0
+203	TRUMP	And create a new American future.	0
+204	TRUMP	And that future begins with prosperity at home.	0
+205	TRUMP	My economic agenda can be summed up in three words.	0
+206	TRUMP	And you’re going to like these three words.	0
+207	TRUMP	Jobs, jobs, jobs.	0
+208	TRUMP	One of my highest priorities is to bring jobs into our inner cities.	0
+209	TRUMP	African-American communities have suffered horribly as a result of failed Democratic leadership.	0
+210	TRUMP	Democrats have run these inner cities for a half a century, for 60 years, 75 years, even in some cases 100 years straight.	0
+211	TRUMP	Unabated.	0
+212	TRUMP	Unbroken.	0
+213	TRUMP	Over 100 years.	0
+214	TRUMP	They control the mayor’s offices, the school boards, the city councils and the seats in Congress.	0
+215	TRUMP	And all they have delivered is more poverty, more crime and more failing schools.	0
+216	TRUMP	Sixty-five percent of African-American children under the age of six now live in poverty.	0
+217	TRUMP	More than 3,000 people have been shot in the city of Chicago this year.	0
+218	TRUMP	This year.	0
+219	TRUMP	Think of it, since Jan. 1.	0
+220	TRUMP	Fifty-eight percent of African-American youth are not working.	1
+221	TRUMP	Can’t get a job.	1
+222	TRUMP	These are the results of the policies embraced by Hillary Clinton.	0
+223	TRUMP	And everyone knows that if she’s elected the inner cities will get nothing but more pain and suffering and crime and heartache.	0
+224	TRUMP	Amazing people.	0
+225	TRUMP	Amazing country.	0
+226	TRUMP	We have an amazing country.	0
+227	TRUMP	And honestly you see the crime statistics.	0
+228	TRUMP	You’re African-American.	0
+229	TRUMP	You have the inner city problems that have been going on for ever.	0
+230	TRUMP	Forever.	0
+231	TRUMP	You have problems like nobody has.	0
+232	TRUMP	And you look at crime.	0
+233	TRUMP	You look at schools.	0
+234	TRUMP	You look at no jobs.	0
+235	TRUMP	Look at the worst education.	0
+236	TRUMP	Look how dangerous.	0
+237	TRUMP	You can’t walk down the street.	0
+238	TRUMP	You get shot or your child gets shot.	0
+239	TRUMP	And I’ve been saying it, and I’ll say it openly — and some people like it and some people don’t like it, and I don’t really care.	0
+240	TRUMP	What do you have to lose?	0
+241	TRUMP	I will fix it.	0
+242	TRUMP	I’m going to fix it.	0
+243	TRUMP	We’re going to fix our inner cities.	0
+244	TRUMP	We’re going to make them safe.	0
+245	TRUMP	We’re going to bring jobs back.	0
+246	TRUMP	So to the African-American people within the community, what do you have to lose?	0
+247	TRUMP	It can’t get — honestly, it can’t get — that’s so nice, thank you.	0
+248	TRUMP	It can’t get any worse.	0
+249	TRUMP	It can’t get any worse.	0
+250	TRUMP	It can’t get any worse.	0
+251	TRUMP	Thank you.	0
+252	TRUMP	So nice.	0
+253	TRUMP	Thank you.	0
+254	TRUMP	Thank you very much.	0
+255	TRUMP	It can’t get any worse, the crime, the jobs.	0
+256	TRUMP	No jobs.	0
+257	TRUMP	No education.	0
+258	TRUMP	Worst education.	0
+259	TRUMP	More unsafe — you go to Afghanistan, right.	0
+260	TRUMP	We hear Afghanistan.	0
+261	TRUMP	I mean we have cities that are far more dangerous than Afghanistan.	0
+262	TRUMP	Inner cities.	0
+263	TRUMP	African-American people within that community and outside of that community are going to be voting for Donald Trump in record numbers.	0
+264	TRUMP	You watch.	0
+265	TRUMP	We’re going to fix it.	0
+266	TRUMP	Hillary Clinton has been in Washington for 30 years.	0
+267	TRUMP	Her disastrous record speaks for itself.	0
+268	TRUMP	And I have to tell you.	0
+269	TRUMP	When she ran for the United States Senate in New York, we have upstate New York which is a total disaster, economic disaster.	0
+270	TRUMP	She said she’s going to bring back jobs, jobs, jobs.	0
+271	TRUMP	She — anyway, she gets elected.	0
+272	TRUMP	We lost our jobs.	1
+273	TRUMP	It got worse.	1
+274	TRUMP	She didn’t do anything.	0
+275	TRUMP	She didn’t do anything.	0
+276	TRUMP	She went home.	0
+277	TRUMP	She went to sleep, OK.	0
+278	TRUMP	She didn’t do anything.	0
+279	TRUMP	She didn’t do anything.	0
+280	TRUMP	It got worse.	1
+281	TRUMP	Far worse now, it’s a total catastrophe.	1
+282	TRUMP	Just remember that.	0
+283	TRUMP	When she tells you about jobs, when she tells you she’s going to fix trade deals, she wouldn’t know where to begin.	0
+284	TRUMP	She wouldn’t know where to begin.	0
+285	TRUMP	And besides that, to do that kind of thing, to negotiate great trade deals, to re-enhance our — I mean look.	0
+286	TRUMP	Our military is so depleted.	0
+287	TRUMP	We have the greatest people on earth.	0
+288	TRUMP	They’re using equipment that’s old.	0
+289	TRUMP	They’re flying planes that are old.	0
+290	TRUMP	You see what’s happening.	0
+291	TRUMP	It’s a depleted military.	0
+292	TRUMP	We have to have a strong military.	0
+293	TRUMP	We have to take care of our vets.	0
+294	TRUMP	We have to take care of our vets.	0
+295	TRUMP	But to do these things you need a lot of energy.	0
+296	TRUMP	And she does not have the energy.	1
+297	TRUMP	And in my opinion she is totally unfit to be the president of the United States.	1
+298	TRUMP	The only people that she will deliver for, frankly, are her donors and her special interests.	0
+299	TRUMP	I’m going to deliver for you, believe me.	0
+300	TRUMP	The American people.	0
+301	TRUMP	We’re going to deliver.	0
+302	TRUMP	You’re gonna be happy.	0
+303	TRUMP	And those inner cities are going to see progress like they have probably, not probably.	0
+304	TRUMP	Like they have never seen.	0
+305	TRUMP	You watch.	0
+306	TRUMP	Like they have never seen.	0
+307	TRUMP	Thank you.	0
+308	TRUMP	If we lower our taxes and we’re getting a massive tax reduction — and by the way, Hillary Clinton is raising your taxes substantially.	1
+309	TRUMP	If we remove destructive regulations, unleash the vast treasure of American energy.	0
+310	TRUMP	We have so much energy.	0
+311	TRUMP	It’s being destroyed, our economic worth.	0
+312	TRUMP	And negotiate trade deals that put America first.	0
+313	TRUMP	Then there is no limit to the number of jobs we can create and the amount of prosperity we can unleash.	0
+314	TRUMP	There is no limit.	0
+315	TRUMP	Pay off our debt.	0
+316	TRUMP	Pay down our debt.	0
+317	TRUMP	Reduce taxes.	0
+318	TRUMP	Get rid of regulations.	0
+319	TRUMP	My first day in office I’m going to order a review of every single regulation issued over the last 10 years.	0
+320	TRUMP	All needless, job-killing regulations will be immediately canceled.	0
+321	TRUMP	Millions of new jobs will come pouring in.	0
+322	TRUMP	And we’re going to lift the restrictions on American energy — which means at least another half a million jobs each year.	0
+323	TRUMP	They are being destroyed.	0
+324	TRUMP	And we’re unable to compete with other nations.	0
+325	TRUMP	Very simple.	0
+326	TRUMP	And that’s just the beginning.	0
+327	TRUMP	Also on my first day I’m going to ask Congress to send me a bill to immediately repeal and replace disastrous Obamacare.	0
+328	TRUMP	It has turned out to be a disaster.	0
+329	TRUMP	This alone will instantly save another two million jobs.	1
+330	TRUMP	And if you look at your premiums, it’s through the roof.	0
+331	TRUMP	And by the way, on Nov. 1, just before the election on Nov. 8, new numbers are coming out which will show 40, 50, 60 percent increases.	1
+332	TRUMP	They want to delay it until after the election because it’s election — it’s a disaster.	1
+333	TRUMP	It’s a disaster.	0
+334	TRUMP	And your deductibles are so high that unless you lead a really long, slow, vicious death, you’re never going to be able to use it, OK.	0
+335	TRUMP	Do you see the deductibles?	0
+336	TRUMP	You’re never going to be able to use it.	0
+337	TRUMP	I’m also going to completely reform our trade deals.	0
+338	TRUMP	We’re going to renegotiate NAFTA.	0
+339	TRUMP	Probably the worst trade deal ever agreed to, signed in the history of the world, not in the United States.	0
+340	TRUMP	It’s destroyed our manufacturing in our country.	0
+341	TRUMP	It’s destroyed.	0
+342	TRUMP	And by the way, guess who signed it?	0
+343	TRUMP	Bill Clinton.	1
+344	TRUMP	You look at all of the places, Florida included.	0
+345	TRUMP	But you look at upstate New York, you look at Ohio, you look at Pennsylvania.	0
+346	TRUMP	You look at all of these different places have been destroyed.	1
+347	TRUMP	Absolutely destroyed.	1
+348	TRUMP	You look at New England.	0
+349	TRUMP	Look what happened to New England.	0
+350	TRUMP	They’ve been destroyed by companies moving out, going into Mexico, firing everybody.	0
+351	TRUMP	Unemployment through the roof.	0
+352	TRUMP	We’re going to stand up to China, and keep America out of the Trans-Pacific Partnership — another catastrophe.	0
+353	TRUMP	TPP will be almost as bad as NAFTA.	0
+354	TRUMP	Nothing can be as bad as NAFTA.	0
+355	TRUMP	Trans-Pacific Partnership will be almost as bad as NAFTA.	0
+356	TRUMP	It’ll take your jobs, Ohio.	0
+357	TRUMP	Remember, it’s going to take your jobs, Ohio.	0
+358	TRUMP	I tell you that.	0
+359	TRUMP	Michigan.	0
+360	TRUMP	So many places.	0
+361	TRUMP	TPP is a disaster.	0
+362	TRUMP	We don’t need another massive multinational deal, by the way, that nobody on our side even reads, that ties us up and binds us down and doesn’t even discuss monetary manipulation and devaluation, which is how China and all these countries are beating us so badly.	0
+363	TRUMP	Not even discussed.	0
+364	TRUMP	And they had provisions in the agreement, and they would take it out because certain politicians didn’t want to have them in there.	0
+365	TRUMP	I wonder why.	0
+366	TRUMP	Another major reform is going to be school choice.	0
+367	TRUMP	And we’re going to terminate Common Core.	0
+368	TRUMP	And we’re bringing our education local.	1
+369	TRUMP	I’ve outlined a plan to provide every disadvantaged child in America the freedom to choose the private, public, magnet or religious school of his or her choice.	0
+370	TRUMP	This will help lift millions of poor African-American and Hispanic children out of poverty, something we are going to do.	0
+371	TRUMP	Since President Obama came into office another two million Hispanic Americans have fallen into poverty.	1
+372	TRUMP	It’s catastrophic.	0
+373	TRUMP	And it’s totally unacceptable.	0
+374	TRUMP	To the Hispanic community I say we are going to protect your jobs.	0
+375	TRUMP	We’re going to build up your schools.	0
+376	TRUMP	And we’re going to deliver safety and opportunity for your children.	0
+377	TRUMP	You have no safety.	0
+378	TRUMP	You have little opportunity.	0
+379	TRUMP	This week I also rolled out a plan to help our mothers and our families get affordable quality child care for their children.	0
+380	TRUMP	Child care.	0
+381	TRUMP	Ivanka Trump, very much for child care.	0
+382	TRUMP	She’s been talking about that to me for two years, long before I even decided to go through this journey.	0
+383	TRUMP	And it’s not easy, I want to tell you.	0
+384	TRUMP	We speak in rooms like this.	0
+385	TRUMP	This is about 100 degrees right now.	0
+386	TRUMP	That’s considered a cool auditorium.	0
+387	TRUMP	And the reason is we have such big crowds like this one.	0
+388	TRUMP	Look at that.	0
+389	TRUMP	Every single corner.	0
+390	TRUMP	Unbelievable.	0
+391	TRUMP	These rooms weren’t designed for this many people.	0
+392	TRUMP	And it is hot in these rooms.	0
+393	TRUMP	And we stand up here and we talk.	0
+394	TRUMP	And we do two or three and sometimes we’ll be hitting four a day.	0
+395	TRUMP	Do you think Hillary Clinton can get through one?	0
+396	TRUMP	You ever see her 18-minute speech?	1
+397	TRUMP	Bomb.	0
+398	TRUMP	Bomb.	0
+399	TRUMP	Bomb.	0
+400	TRUMP	See ya.	0
+401	TRUMP	See ya, I’m going home.	0
+402	TRUMP	No.	0
+403	TRUMP	We’re doing it the right way.	0
+404	TRUMP	And frankly, when they spend hundreds of millions of dollars on advertising I don’t have to because I do it the old fashioned way.	1
+405	TRUMP	I come into your neighborhood, right.	0
+406	TRUMP	It’s a lot cheaper.	0
+407	TRUMP	It’s a lot harder work, but it’s a lot cheaper.	0
+408	TRUMP	Very true.	0
+409	TRUMP	Very, very true.	0
+410	TRUMP	On policy after policy we’re going to provide opportunity, prosperity and security for all Americans.	0
+411	TRUMP	We’re also going to stand with the Cuban people in their fight against Communist oppression.	0
+412	TRUMP	No, we’re on the right side.	0
+413	TRUMP	Great people.	0
+414	TRUMP	They’re great people.	0
+415	TRUMP	The president’s one-sided deal for Cuba and with Cuba benefits only the Castro regime.	0
+416	TRUMP	People are very unhappy about it.	0
+417	TRUMP	You know what’s interesting?	0
+418	TRUMP	When he landed the plane recently in China, right, they refused to give him a stairway out of Air Force One.	0
+419	TRUMP	Now that is a first in the history of Air Force One.	1
+420	TRUMP	So he used basically the mechanics’ stairs.	0
+421	TRUMP	That’s the stairs they drop down to get the mechanics up to fix the light bulb, right.	0
+422	TRUMP	When he landed the plane in Saudi Arabia, which we protect.	0
+423	TRUMP	Without us they wouldn’t be there for two months.	0
+424	TRUMP	He landed in Saudi Arabia.	0
+425	TRUMP	He wasn’t greeted by the top officials.	0
+426	TRUMP	Now what would I have done in those two cases?	0
+427	TRUMP	Bomb.	0
+428	TRUMP	Take me back to Washington, Jim.	0
+429	TRUMP	Let’s go.	0
+430	TRUMP	Right.	0
+431	TRUMP	Let’s go.	0
+432	TRUMP	Let’s go, Jim.	0
+433	TRUMP	Get going.	0
+434	TRUMP	Close those doors.	0
+435	TRUMP	We’re going home.	0
+436	TRUMP	Now with Cuba, with Cuba we land in Cuba and there’s no Castro to greet him.	0
+437	TRUMP	The big leaders weren’t there to greet him.	0
+438	TRUMP	And I have a lot of Cuban friends.	0
+439	TRUMP	But you would have all done the same thing again.	0
+440	TRUMP	Jim, let’s close those doors.	0
+441	TRUMP	We’re going home.	0
+442	TRUMP	Right?	0
+443	TRUMP	Right?	0
+444	TRUMP	Let’s go, captain.	0
+445	TRUMP	We’re going home.	0
+446	TRUMP	We’re going into Washington.	0
+447	TRUMP	Maybe we’ll head into Miami actually.	0
+448	TRUMP	That’s not a bad idea.	0
+449	TRUMP	Terrible.	0
+450	TRUMP	That’s three.	0
+451	TRUMP	Three.	0
+452	TRUMP	Saudi Arabia, Cuba, China.	0
+453	TRUMP	Air Force One has never been treated so badly in its long and incredible history.	1
+454	TRUMP	Air Force One used to land and people would respect the people inside.	0
+455	TRUMP	And they’d come out and there’d be all sorts of hoopla.	0
+456	TRUMP	Not anymore.	0
+457	TRUMP	It’s unbelievable.	0
+458	TRUMP	And these are countries that have benefited by us greatly.	0
+459	TRUMP	So we have to make great deals before we do anything with Cuba or anybody else, right.	0
+460	TRUMP	We’re going to make great deals.	0
+461	TRUMP	You’ll be happy.	0
+462	TRUMP	You’re going to be happy, I tell you.	0
+463	TRUMP	How many people are from Cuba here?	0
+464	TRUMP	Come here.	0
+465	TRUMP	Tell me.	0
+466	TRUMP	Cuban.	0
+467	TRUMP	Cuban.	0
+468	TRUMP	Good.	0
+469	TRUMP	Do you agree with me?	0
+470	TRUMP	Do you agree?	0
+471	TRUMP	We’ll do it.	0
+472	TRUMP	But we’ll do it with great deals.	0
+473	TRUMP	And we’ll do it with democracy.	0
+474	TRUMP	And we’ll do it the way we have to do it.	0
+475	TRUMP	OK?	0
+476	TRUMP	We’ll do it the right way.	0
+477	TRUMP	Where is Ms.	0
+478	TRUMP	Delgado?	0
+479	TRUMP	Does everybody know?	0
+480	TRUMP	What a great — where is she?	0
+481	TRUMP	She is so amazing.	0
+482	TRUMP	A.J.	0
+483	TRUMP	Where is A.J.	0
+484	TRUMP	Wow, she’s so — she’s become a tremendous star.	0
+485	TRUMP	Tell you one thing, when she’s representing me I wouldn’t do it anyway, but I can.	0
+486	TRUMP	Turn off the television.	0
+487	TRUMP	I’m well protected.	0
+488	TRUMP	Thank you.	0
+489	TRUMP	Great job.	0
+490	TRUMP	Thank you very much.	0
+491	TRUMP	Thank you, A.J.	0
+492	TRUMP	But all of the concessions that Barack Obama has granted the Castro regime were done through executive order, which means the next president can reverse them.	0
+493	TRUMP	And that I will do unless the Castro regime meets our demands.	0
+494	TRUMP	Not my demands, our demands.	0
+495	TRUMP	You know what the demands are.	0
+496	TRUMP	Those demands will include religious and political freedom for the Cuban people.	0
+497	TRUMP	And the freeing of political prisoners.	0
+498	TRUMP	The freeing of political prisoners.	0
+499	TRUMP	Right?	0
+500	TRUMP	Am I — is that right?	0
+501	TRUMP	Oh boy.	0
+502	TRUMP	Oh boy.	0
+503	TRUMP	What energy in this room.	0
+504	TRUMP	What energy.	0
+505	TRUMP	A lot of energy.	0
+506	TRUMP	You’ll be very happy, my Cuban friends.	0
+507	TRUMP	I have so many friends from Cuba.	0
+508	TRUMP	Incredible people.	0
+509	TRUMP	So let’s also talk about a place called Venezuela.	0
+510	TRUMP	They — now who’s here from Venezuela?	0
+511	TRUMP	Or related in some — not too many.	0
+512	TRUMP	Whoa.	0
+513	TRUMP	Whoa.	0
+514	TRUMP	What’s going on?	0
+515	TRUMP	Not too many?	0
+516	TRUMP	Friend or foe?	0
+517	TRUMP	I think he’s friend.	0
+518	TRUMP	I think he’s friend.	0
+519	TRUMP	No, he’s OK.	0
+520	TRUMP	He’s OK.	0
+521	TRUMP	By the way, is there any place more fun to be than a Trump rally?	0
+522	TRUMP	You tell me.	0
+523	TRUMP	Right?	0
+524	TRUMP	Tell you.	0
+525	TRUMP	We have a lot of Venezuelans around Doral, the Doral section, right.	0
+526	TRUMP	And it’s a beautiful, vibrant — this is an amazing place.	0
+527	TRUMP	But they are really having trouble over in Venezuela.	0
+528	TRUMP	But Miami is filled with hardworking, incredible Venezuelan people.	0
+529	TRUMP	But it’s been hurt very badly by Socialist Venezuela.	0
+530	TRUMP	And the next president of the United States must stand in solidarity with all people oppressed in our atmosphere.	0
+531	TRUMP	And we will stand with oppressed people.	0
+532	TRUMP	And there are many.	0
+533	TRUMP	The oppressed people of Venezuela, they are yearning to be free.	0
+534	TRUMP	They are yearning for help.	0
+535	TRUMP	The system is bad.	0
+536	TRUMP	But the people are great.	0
+537	TRUMP	Great.	0
+538	TRUMP	They are great people.	0
+539	TRUMP	Here in America I’ll push to expand freedom for all of our citizens.	0
+540	TRUMP	I’m going to lower your taxes so substantially.	0
+541	TRUMP	We’re getting rid of all of those regulations on business.	0
+542	TRUMP	So many small business owners here, I know five of them.	0
+543	TRUMP	One of them was small business now he’s big business.	0
+544	TRUMP	I’m proud of him.	0
+545	TRUMP	He’s right here.	0
+546	TRUMP	But we’re going to get rid of those terrible, terrible regulations.	0
+547	TRUMP	He just said to me, and the thing that surprised me most, we’re bringing business tax rates down from 35 percent to 15 percent.	0
+548	TRUMP	And yet — it’ll be the greatest cut, I believe, in the history of our country.	0
+549	TRUMP	But I will tell you what surprises me tremendously is that the people that have these cuts, they’re more concerned with regulation than even a big tax decrease because regulations are choking and killing our businesses and stopping our businesses from hiring people, jobs.	0
+550	TRUMP	So I’m going to appoint justices of the Supreme Court who will follow the Constitution.	0
+551	TRUMP	I’m going to rebuild our depleted — we’re going to take care of our, the vets.	0
+552	TRUMP	Who’s a vet?	0
+553	TRUMP	Who’s a vet?	0
+554	TRUMP	Where are my vets?	0
+555	TRUMP	Where are they?	0
+556	TRUMP	There they — OK.	0
+557	TRUMP	Now they’re standing up.	0
+558	TRUMP	Now they — I know we had a lot of vets here.	0
+559	TRUMP	Thank you, fellas.	0
+560	TRUMP	Thank you very much.	0
+561	TRUMP	We’re going to take care of our vets.	0
+562	TRUMP	We’re going to save your Second Amendment.	0
+563	TRUMP	Do you know if you look at some of the things, the catastrophes — you look at Orlando.	0
+564	TRUMP	You look at San Bernardino.	0
+565	TRUMP	You look at so many different — you look at Paris.	0
+566	TRUMP	The toughest gun laws in the world, they have it in Paris.	0
+567	TRUMP	These thugs, these animals walked in and they just go bomb, bomb, bomb.	0
+568	TRUMP	Nobody had guns on the other side.	1
+569	TRUMP	If there were guns on the other side, just a few of them, number one, probably if they knew, they wouldn’t have attacked.	1
+570	TRUMP	And number two, even if they did attack, it would’ve been a whole different story.	0
+571	TRUMP	One hundred thirty people killed.	0
+572	TRUMP	People massively injured, still in the hospital.	0
+573	TRUMP	Their lives are just destroyed.	0
+574	TRUMP	And if they had protection, if they had guns on the other side, with the bullets flying the other direction, it would’ve been a whole different story.	1
+575	TRUMP	So we’re going to protect your Second Amendment.	0
+576	TRUMP	And I’m going to stop illegal immigration and drugs from coming into our country.	0
+577	TRUMP	And yes, we will build a wall.	0
+578	TRUMP	We’ll build a wall.	0
+579	TRUMP	We will build a wall.	0
+580	TRUMP	Who’s going to pay for the wall?	0
+581	TRUMP	One hundred percent.	0
+582	TRUMP	One hundred percent.	0
+583	TRUMP	And we’re going to be renegotiating NAFTA and our terrible trade deals.	0
+584	TRUMP	We’re going to make great deals out of horrible deals.	0
+585	TRUMP	And if we can’t renegotiate the deal because the other side is so, so happy with it, we’re going to terminate the deal and we’ll start all over again, folks.	0
+586	TRUMP	We’ll have new deals.	0
+587	TRUMP	And they’ll be much better deals.	0
+588	TRUMP	And they’ll be two-way streets.	0
+589	TRUMP	The traffic, it’ll be coming our way.	0
+590	TRUMP	It’s a one-way street out of the United States for our jobs and our money.	0
+591	TRUMP	You know I always say we get the drugs, they get the cash.	0
+592	TRUMP	That’s the deal, folks.	0
+593	TRUMP	No good.	0
+594	TRUMP	They’re building in Mexico right now, and Mexico’s just one example, some of the greatest plants.	0
+595	TRUMP	A friend of mine builds plants.	0
+596	TRUMP	And he tells me all the time — I called him up the other day.	0
+597	TRUMP	I called him up six months ago, told me the same thing.	0
+598	TRUMP	Nothing changes.	0
+599	TRUMP	Ford.	0
+600	TRUMP	They just announced yesterday they’re moving their small car division, the whole thing, into Mexico.	1
+601	TRUMP	That’s on top of spending billions and billions of dollars.	0
+602	TRUMP	And then you wonder why I’m winning in Michigan.	0
+603	TRUMP	Because I’ve been telling the people in Michigan.	0
+604	TRUMP	I’ve been telling the people in Ohio for five years that this is happening.	0
+605	TRUMP	And our politicians don’t do anything about it.	0
+606	TRUMP	And Hillary Clinton will never do anything about it.	0
+607	TRUMP	She doesn’t have the capability to do it.	0
+608	TRUMP	We will rebuild our roads and bridges, tunnels, highways, airports, schools and hospitals.	0
+609	TRUMP	American cars will travel the roads.	0
+610	TRUMP	American planes will soar in the sky.	0
+611	TRUMP	They’ll soar.	0
+612	TRUMP	And American ships will patrol the seas.	0
+613	TRUMP	American steel will send new skyscrapers right here in Miami into the clouds.	0
+614	TRUMP	But it’ll be American steel.	0
+615	TRUMP	American hands will rebuild this nation.	0
+616	TRUMP	And American energy mined from American sources will power our energy.	0
+617	TRUMP	And we’ll take care of our steel workers.	0
+618	TRUMP	And we’ll take care of our miners who have been destroyed by this administration, destroyed.	0
+619	TRUMP	And Hillary Clinton has already said she’s going to put the miners out of business.	1
+620	TRUMP	We’re going to take care of our miners.	0
+621	TRUMP	They’re amazing people.	0
+622	TRUMP	American workers will be hired to do the job.	0
+623	TRUMP	We will put new American steel into the spine of our country.	0
+624	TRUMP	I will fight for every neglected part of this nation.	0
+625	TRUMP	And I will fight to bring us all together as one people.	0
+626	TRUMP	Imagine what our country could accomplish if we started working together as one people under one God, saluting one flag.	0
+627	TRUMP	It’s time to break with the bitter failures of the past and to embrace a new, inclusive and prosperous American future.	0
+628	TRUMP	We’re not prosperous anymore.	0
+629	TRUMP	We owe $20 trillion.	0
+630	TRUMP	We have a president who in seven-and-a-half years has doubled the debt.	0
+631	TRUMP	Our country’s in trouble.	0
+632	TRUMP	A lot of people don’t know it, but our country’s in trouble.	0
+633	TRUMP	And we’re going to make sure that trouble never comes.	0
+634	TRUMP	Let me tell you.	0
+635	TRUMP	Jobs will return.	0
+636	TRUMP	Incomes will rise.	0
+637	TRUMP	And new factories will come rushing back to our shores.	0
+638	TRUMP	Once more we will have a government of, by and for the people.	0
+639	TRUMP	We will make America wealthy again.	0
+640	TRUMP	We will make America safe again.	0
+641	TRUMP	We will make America strong again.	0
+642	TRUMP	And we will make America great again.	0
+643	TRUMP	Thank you, everybody.	0
+644	TRUMP	Thank you.	0
+645	TRUMP	Thank you, Miami.	0
